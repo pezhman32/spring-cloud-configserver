@@ -66,3 +66,9 @@ KEYSTORE_PASSWORD works).  E.g.
 ```
 $ KEYSTORE_PASSWORD=foobar java -jar target/*.jar
 ```
+
+Notes:
+<br />
+documentation: http://cloud.spring.io/spring-cloud-config/
+<br />
+original github repo: https://github.com/spring-cloud-samples/configserver
